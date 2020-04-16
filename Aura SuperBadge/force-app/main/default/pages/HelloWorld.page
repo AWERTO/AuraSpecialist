@@ -1,0 +1,15 @@
+<apex:page sidebar="false" showHeader="false">
+    <h1>Hello world</h1>
+    <apex:pageBlock title="First title">
+        <apex:pageBlockSection title="First section">
+            <p>
+                Text in first section
+            </p>
+        </apex:pageBlockSection>
+        <apex:pageBlockSection title="Second section">
+            <p>
+                Text in second section
+            </p>
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page>
